@@ -2,6 +2,12 @@
 
 Helper methods for working with Rails and heroku in a local environment.
 
+## Installation
+
+```
+$ heroku plugins:install git://github.com/tadast/heroku-pg-rails-dev.git
+```
+
 ## Usage
 
 ```
